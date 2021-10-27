@@ -1,0 +1,65 @@
+[
+  {
+    "name": "blogs",
+    "path": "/blogs",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\index.vue",
+    "chunkName": "pages/blogs/index",
+    "_name": "_cba7f854"
+  },
+  {
+    "name": "blogs-contact",
+    "path": "/blogs/contact",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\contact.vue",
+    "chunkName": "pages/blogs/contact",
+    "_name": "_9eea05b8"
+  },
+  {
+    "name": "blogs-project",
+    "path": "/blogs/project",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\project.vue",
+    "chunkName": "pages/blogs/project",
+    "_name": "_7615ff9d"
+  },
+  {
+    "name": "blogs-project-details",
+    "path": "/blogs/project-details",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\project-details.vue",
+    "chunkName": "pages/blogs/project-details",
+    "_name": "_62bb3d92"
+  },
+  {
+    "name": "blogs-service",
+    "path": "/blogs/service",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\service.vue",
+    "chunkName": "pages/blogs/service",
+    "_name": "_3b2a4d39"
+  },
+  {
+    "name": "blogs-service-details",
+    "path": "/blogs/service-details",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\service-details.vue",
+    "chunkName": "pages/blogs/service-details",
+    "_name": "_7a33a1a4"
+  },
+  {
+    "name": "blogs-blog",
+    "path": "/blogs/:blog",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\blogs\\\\_blog.vue",
+    "chunkName": "pages/blogs/_blog",
+    "_name": "_af7757f6"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_816c7b26"
+  },
+  {
+    "name": "page",
+    "path": "/:page",
+    "component": "C:\\\\Users\\\\Akbim\\\\Desktop\\\\virtuf\\\\virtuf\\\\pages\\\\_page.vue",
+    "chunkName": "pages/_page",
+    "_name": "_280b0709"
+  }
+]
